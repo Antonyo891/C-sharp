@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine ("Enter your Name:");
+Console.Write("Enter your Name:");
 string username = Console.ReadLine();
-Console.WriteLine("Привет,");
+Console.Write("Привет,");
 Console.WriteLine(username);
